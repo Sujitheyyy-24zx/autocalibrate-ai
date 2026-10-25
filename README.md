@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hardware-Open_Source-brightgreen?style=for-the-badge&logo=open-source-initiative" alt="Open Source Hardware" />
   <img src="https://img.shields.io/badge/CAD-STEP-blue?style=for-the-badge" alt="STEP Files" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License" />
 </p>
 
 This repository contains the hardware design and CAD files for the **AutoCalibrate PT100 Node (Revision 1)**. Designed for precision and ease of assembly, this project provides the structural housing required to securely mount and calibrate lab-grade PT100 (RTD) sensors alongside their driving electronics.
@@ -60,7 +59,3 @@ Contributions make the open-source community an amazing place to learn, inspire,
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
